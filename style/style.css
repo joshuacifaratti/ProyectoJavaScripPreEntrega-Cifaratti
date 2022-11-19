@@ -46,3 +46,7 @@ h2{
     color: white;
     border-radius: 30px;
   }
+
+  .tarjetas{
+    display: flex;
+    gap: 30px;  }
